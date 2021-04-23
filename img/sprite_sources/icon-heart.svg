@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="15px" viewBox="0 0 17 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>favorite-heart-button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dapp-ranking" transform="translate(-120.000000, -538.000000)" fill="#5A3EC4" fill-rule="nonzero">
+            <g id="favorite-heart-button" transform="translate(120.000000, 538.000000)">
+                <path d="M8.13829787,14.9744681 L6.99893617,13.8351064 C2.76702128,10.0914894 0,7.56861702 0,4.47606383 C0,1.95319149 1.95319149,0 4.47606383,0 C5.85957447,0 7.24308511,0.65106383 8.13829787,1.70904255 C9.03351064,0.65106383 10.4170213,0 11.8005319,0 C14.3234043,0 16.2765957,1.95319149 16.2765957,4.47606383 C16.2765957,7.56861702 13.5095745,10.0914894 9.27765957,13.8351064 L8.13829787,14.9744681 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>

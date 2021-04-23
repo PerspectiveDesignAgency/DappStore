@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="87px" height="115px" viewBox="0 0 87 115" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>file</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F6C554" offset="0%"></stop>
+            <stop stop-color="#F5A939" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="66.5499798%" y1="5.19246708%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFAB4" offset="0%"></stop>
+            <stop stop-color="#F5A939" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#E89A31" offset="0%"></stop>
+            <stop stop-color="#D87224" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="terms-of-use" transform="translate(-677.000000, -122.000000)" fill-rule="nonzero">
+            <g id="file" transform="translate(678.000000, 122.000000)">
+                <path d="M83.9853438,24.6688438 C83.9779063,23.9959687 83.7175938,23.3366562 83.223,22.8418437 L63.1494063,2.76803125 C63.1485313,2.76715625 63.147875,2.7669375 63.147,2.76628125 C62.6729688,2.2926875 62.0180313,2 61.2950625,2 L5.5295625,2 C2.48521875,2 0.00875,4.47625 0.00875,7.52059375 L0.00875,108.479187 C0.00875,111.523312 2.485,113.999781 5.52934375,113.999781 L78.4702188,113.999781 C81.5143438,113.999781 83.9908125,111.523531 83.9908125,108.479187 L83.9908125,24.6959687 C83.99125,24.6863438 83.9862188,24.67825 83.9853438,24.6688438 Z" id="Shape" stroke="url(#linearGradient-2)" stroke-width="2" fill="url(#linearGradient-1)"></path>
+                <path d="M62.125,1.38555833e-13 L86,23.875 L62.125,23.875 L62.125,1.38555833e-13 Z" id="Path" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
